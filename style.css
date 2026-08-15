@@ -8,6 +8,10 @@
     margin: auto;
 }
 
+body {
+    background-color: rgb(43, 0, 255)
+}
+
 #errorMessage {
     
     color: red;
